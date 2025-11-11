@@ -7,17 +7,17 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/cnw-os/Whiteshadow-v2/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/cnw-os/Whiteshadow-v2?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/cnw-os/Whiteshadow-v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/cnw-os/Whiteshadow-v2?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/cnw-os/Whiteshadow-v2"><img title="Size" src="https://img.shields.io/github/repo-size/cnw-os/Whiteshadow-v2?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
-  <a href="https://github.com/cnw-os/Whiteshadow-v2/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+  <a href="https://github.com/cnw-db/Whiteshadow-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/cnw-db/Whiteshadow-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/cnw-db/Whiteshadow-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/cnw-db/Whiteshadow-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/cnw-db/Whiteshadow-MD"><img title="Size" src="https://img.shields.io/github/repo-size/cnw-db/Whiteshadow-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/cnw-db/Whiteshadow-vx/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Whiteshadow-MD&label=VISITORS&style=flat-square&color=0002FF" />
 </p>
 
-> **Current Bot Version `V1.0`**
+> **Current Bot Version `V2.0`**
 
 ---
 
@@ -39,12 +39,16 @@
 ## 🛰️ Deployment Steps
 
 > 1. ⭐ Star & 🍴 Fork the repo  
-> 2. Edit `.env` → add your creds  
+> 2. Edit `config.js` → add your creds  
 > 3. Deploy with your favourite provider 👇
 
 ### 🔘 Deploy Button
 
-[![Deploy on Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa)](https://dashboard.render.com/web/new?fromGitRepo=true&repo=https://github.com/cnw-os/Whiteshadow-v2)
+[![Deploy on Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa)](https://dashboard.render.com/web/new?fromGitRepo=true&repo=https://github.com/cnw-db/Whiteshadow-MD.git)
+
+### 🔘 Deploy Buttons
+
+[![Deploy on Heroku](https://img.shields.io/badge/Deploy%20on-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/cnw-db/Whiteshadow-MD.git)
 
 ---
 
@@ -54,14 +58,7 @@
 
 > 🧠 If you face connection issues, try enabling a VPN.
 
-
-> If you face connection issues, enable a VPN and retry.
-
-
-
-
 ---
-
 
 ## 🚀 Continuous Integration
 
@@ -101,49 +98,47 @@ jobs:
 
       - name: Start application
         run: npm start
-
-
-
----
-
 ```
+
+</details>
 ---
 
-## 🪀 Support Channel
+🪀 Support Channel
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vak4dFAHQbSBzyxlGG13" target="_blank">
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
   </a>
 </p>
+---
+
+⚠️ Disclaimer
+
+> WHITESHADOW-MD is not affiliated with WhatsApp Inc.
+Use at your own risk. Misuse may result in account bans.
+
+
+
 
 ---
 
-## ⚠️ Disclaimer
-
-> **WHITESHADOW-MD** is not affiliated with **WhatsApp Inc.**  
-> Use at your own risk. Misuse may result in account bans.
-
----
-
-## 👑 Project Architect
+👑 Project Architect
 
 <p align="center">
   <a href="https://github.com/chamod-bot-ctrl" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=chamod-bot-ctrl&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="420"/>
   </a>
 </p>
-
 ---
 
-## 🚦 Status
+🚦 Status
 
-```diff
 + Project: Active
 ! Version: V1.0 – Neon Edition
 # License: MIT
-```
 
 <div align="center">
   <img src="https://i.imgur.com/OVCwYVB.gif" width="100%"/>
 </div>
+```
+---
